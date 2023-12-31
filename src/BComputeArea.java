@@ -1,4 +1,4 @@
-public class ComputeArea {
+public class BComputeArea {
     public static void main(String[] args) {
         double radius; // радиус круга - объявление переменной
         double area; // площадь круга - объявление переменной

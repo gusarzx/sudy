@@ -1,6 +1,6 @@
 import java.util.Scanner; // Scanner находится в пакете java.util
 
-public class ComputeAreaWithConsoleInput {
+public class BComputeAreaWithConsoleInput {
     public static void main(String[] args) {
         double radius; // радиус круга
         double area; // площадь круга

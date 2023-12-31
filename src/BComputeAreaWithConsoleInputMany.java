@@ -1,6 +1,6 @@
 import java.util.Scanner;// Scanner находится в пакете java.util
 
-public class ComputeAreaWithConsoleInputMany {
+public class BComputeAreaWithConsoleInputMany {
     public static void main(String[] args) {
         double number1, number2, number3, average; // объявление переменных
 
