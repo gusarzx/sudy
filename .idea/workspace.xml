@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4c97eca-66bc-494d-998f-c9bf40b9593e" name="Changes" comment="ComputeArea - переменные ввод через код&#10;ComputeAreaWithConsoleInput - считывание входных данных из консоли&#10;ComputeAreaWithConsoleInput - читывание входных данных из консоли, множество данных">
+      <change afterPath="$PROJECT_DIR$/src/CDisplayTime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComputeArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BComputeArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComputeAreaWithConsoleInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BComputeAreaWithConsoleInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComputeAreaWithConsoleInputMany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BComputeAreaWithConsoleInputMany.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AFirst.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,11 +23,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -75,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703409677773</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ComputeArea - переменные ввод через код&#10;ComputeAreaWithConsoleInput - считывание входных данных из консоли&#10;ComputeAreaWithConsoleInput - читывание входных данных из консоли, множество данных">
+      <created>1704034113325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704034113325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
