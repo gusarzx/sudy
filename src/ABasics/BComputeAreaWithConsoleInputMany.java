@@ -1,3 +1,5 @@
+package ABasics;
+
 import java.util.Scanner;// Scanner находится в пакете java.util
 
 public class BComputeAreaWithConsoleInputMany {

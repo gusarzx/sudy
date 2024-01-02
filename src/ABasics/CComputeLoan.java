@@ -1,3 +1,5 @@
+package ABasics;
+
 import java.util.Scanner;
 
 public class CComputeLoan {

@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4c97eca-66bc-494d-998f-c9bf40b9593e" name="Changes" comment="Новое">
-      <change afterPath="$PROJECT_DIR$/src/BShowCurrentTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CComputeLoan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BStructureChoseIfElse/AaStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BStructureChoseIfElse/ArandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BStructureChoseIfElse/AsimplelDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CComputeExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CComputeExchange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CDisplayTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CDisplayTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/AFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BComputeArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/BComputeArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BComputeAreaWithConsoleInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/BComputeAreaWithConsoleInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BComputeAreaWithConsoleInputMany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/BComputeAreaWithConsoleInputMany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BShowCurrentTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/BShowCurrentTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CComputeExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/CComputeExchange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CComputeLoan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/CComputeLoan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CDisplayTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/CDisplayTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZProject/Project.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,34 +58,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "21",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="AFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AFirst" />
+}</component>
+  <component name="RunManager" selected="Application.AsimplelDemo">
+    <configuration name="AStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AStart" />
       <module name="sudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CComputeLoan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CComputeLoan" />
+    <configuration name="AaStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BStructureChoseIfElse.AaStart" />
       <module name="sudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BStructureChoseIfElse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Convertation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Convertation" />
+    <configuration name="ArandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BStructureChoseIfElse.ArandomNumber" />
       <module name="sudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BStructureChoseIfElse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AsimplelDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BStructureChoseIfElse.AsimplelDemo" />
+      <module name="sudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BStructureChoseIfElse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,10 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AsimplelDemo" />
+        <item itemvalue="Application.ArandomNumber" />
+        <item itemvalue="Application.AaStart" />
+        <item itemvalue="Application.AStart" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.AFirst" />
-        <item itemvalue="Application.Convertation" />
-        <item itemvalue="Application.CComputeLoan" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704041852908</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Новое">
+      <created>1704187402535</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704187402535</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

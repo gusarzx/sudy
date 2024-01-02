@@ -1,4 +1,4 @@
-package Project;
+package ZProject;
 
 import java.util.Scanner;
 
