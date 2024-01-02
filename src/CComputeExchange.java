@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ComputeExchange {
+public class CComputeExchange {
     public static void main(String[] args) {
         int amount, numberOf5000Roubles, numberOf2000Roubles,
                 numberOf1000Roubles, numberOf500Roubles, numberOf100Roubles,
