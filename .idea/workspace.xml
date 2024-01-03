@@ -4,20 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4c97eca-66bc-494d-998f-c9bf40b9593e" name="Changes" comment="Новое">
-      <change afterPath="$PROJECT_DIR$/src/BStructureChoseIfElse/AaStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BStructureChoseIfElse/ArandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BStructureChoseIfElse/AsimplelDemo.java" afterDir="false" />
+    <list default="true" id="f4c97eca-66bc-494d-998f-c9bf40b9593e" name="Changes" comment="If">
+      <change afterPath="$PROJECT_DIR$/src/Bboolean/BcomputeAndInterpretBMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bboolean/BleapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bboolean/Bpriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bboolean/BtestBooleanOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bboolean/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZProject/ProjectPart2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/AFirst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BComputeArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/BComputeArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BComputeAreaWithConsoleInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/BComputeAreaWithConsoleInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BComputeAreaWithConsoleInputMany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/BComputeAreaWithConsoleInputMany.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BShowCurrentTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/BShowCurrentTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CComputeExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/CComputeExchange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CComputeLoan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/CComputeLoan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CDisplayTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABasics/CDisplayTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Project/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZProject/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BStructureChoseIfElse/AaStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bboolean/AaStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BStructureChoseIfElse/ArandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bboolean/ArandomNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BStructureChoseIfElse/AsimplelDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bboolean/AsimplelDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZProject/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZProject/Project.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,46 +66,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AsimplelDemo">
-    <configuration name="AStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AStart" />
-      <module name="sudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AaStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BStructureChoseIfElse.AaStart" />
-      <module name="sudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BStructureChoseIfElse.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BStructureChoseIfElse.ArandomNumber" />
-      <module name="sudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BStructureChoseIfElse.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task">
     <configuration name="AsimplelDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BStructureChoseIfElse.AsimplelDemo" />
+      <option name="MAIN_CLASS_NAME" value="Bboolean.AsimplelDemo" />
       <module name="sudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BStructureChoseIfElse.*" />
+          <option name="PATTERN" value="Bboolean.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,20 +80,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="BtestBooleanOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bboolean.BtestBooleanOperators" />
       <module name="sudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bboolean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZProject.Project" />
+      <module name="sudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ZProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectPart2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZProject.ProjectPart2" />
+      <module name="sudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ZProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bboolean.Task" />
+      <module name="sudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bboolean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.ProjectPart2" />
+        <item itemvalue="Application.Project" />
+        <item itemvalue="Application.BtestBooleanOperators" />
         <item itemvalue="Application.AsimplelDemo" />
-        <item itemvalue="Application.ArandomNumber" />
-        <item itemvalue="Application.AaStart" />
-        <item itemvalue="Application.AStart" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704187402535</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="If">
+      <created>1704197256512</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704197256512</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +218,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ComputeArea - переменные ввод через код&#10;ComputeAreaWithConsoleInput - считывание входных данных из консоли&#10;ComputeAreaWithConsoleInput - читывание входных данных из консоли, множество данных" />
     <MESSAGE value="Новое" />
-    <option name="LAST_COMMIT_MESSAGE" value="Новое" />
+    <MESSAGE value="If" />
+    <option name="LAST_COMMIT_MESSAGE" value="If" />
   </component>
 </project>

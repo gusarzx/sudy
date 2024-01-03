@@ -1,4 +1,4 @@
-package BStructureChoseIfElse;
+package Bboolean;
 
 import java.util.Scanner; // Scanner находится в пакете java.util
 
